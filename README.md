@@ -23,7 +23,7 @@ Hosted via GitHub Pages: [Visit Here](https://yourusername.github.io/your-repo-n
 ## 📧 Contact
 - **Email:** nickanilk@gmail.com
 - **LinkedIn:** [linkedin.com/in/nicholasanilkoshy](https://linkedin.com/in/nicholasanilkoshy)
-- **GitHub:** [github.com/yourusername](https://github.com/NicholasAugust)
+- **GitHub:** [github.com/NicholasAugust](https://github.com/NicholasAugust)
 
 ---
 
