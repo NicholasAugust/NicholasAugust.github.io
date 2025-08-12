@@ -1,24 +1,26 @@
-# Nicholas Anil Koshy – Petroleum Engineer & Business Analyst Portfolio
+# Nicholas Anil Koshy - Petroleum & Analytics Portfolio
 
-## 📌 About
-This portfolio showcases my work in **Reservoir Engineering**, **Business Analytics**, and **Sustainability**.  
-It highlights projects combining upstream petroleum expertise with data analytics skills.
+This is my personal portfolio website showcasing my skills, projects, and insights as a **Petroleum Engineer** and **Business Analyst**.
 
-## 🛠️ Skills
-- Reservoir Engineering & Production Optimization
-- Power BI, SQL, Excel
-- Data Analytics & Visualization
-- Energy Transition & Sustainability Insights
+## 🌟 About
+I am a Petroleum Engineering graduate specializing in Reservoir Engineering and Production Optimization. My work also spans **data analytics**, having experience with tools like **Power BI, SQL, and Excel**.
 
 ## 📂 Sections
-1. About Me
-2. Reservoir Engineering Projects
-3. Business Analytics Projects
-4. Green Future & Sustainability
-5. Contact Information
+- **About Me** – My background and expertise.
+- **Reservoir Engineering Projects** – Technical projects in upstream oil & gas.
+- **Business Analytics Projects** – Data-driven projects and dashboards.
+- **Green Future (Sustainability)** – My commitment to sustainable energy practices.
+- **Articles & Insights** – LinkedIn posts and industry news.
+- **Contact** – Ways to connect with me.
 
-## 🌐 Live Portfolio
-Hosted via GitHub Pages: [Visit Here](https://yourusername.github.io/your-repo-name/)
+## 🚀 Live Demo
+[View Portfolio Website](https://yourusername.github.io/your-repo-name/)
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- GitHub Pages (Hosting)
+---
 
 ## 📧 Contact
 - **Email:** nickanilk@gmail.com
@@ -27,4 +29,4 @@ Hosted via GitHub Pages: [Visit Here](https://yourusername.github.io/your-repo-n
 
 ---
 
-**Tagline:** _"Where Energy Meets Insight"_
+© 2025 Nicholas Anil Koshy | *Where Energy Meets Insight*
