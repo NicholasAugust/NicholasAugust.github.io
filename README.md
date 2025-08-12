@@ -14,7 +14,7 @@ I am a Petroleum Engineering graduate specializing in Reservoir Engineering and 
 - **Contact** – Ways to connect with me.
 
 ## 🚀 Live Demo
-[View Portfolio Website](https://yourusername.github.io/your-repo-name/)
+[View Portfolio Website](https://nicholasaugust.github.io)
 
 ## 🛠 Tech Stack
 - HTML5
